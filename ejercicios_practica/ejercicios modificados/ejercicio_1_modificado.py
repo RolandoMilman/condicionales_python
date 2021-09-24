@@ -23,4 +23,4 @@ suma = numero_1 + numero_2
 print('El resultado de la suma de ', numero_1, 'y', numero_2, 'es', suma)
 # Repita el procedimiento para realizar la resta
 resta = numero_1 - numero_2
-print('El resultado de la retsa de ', numero_1, 'y', numero_2, 'es', resta)
+print('El resultado de la resta de ', numero_1, 'y', numero_2, 'es', resta)
